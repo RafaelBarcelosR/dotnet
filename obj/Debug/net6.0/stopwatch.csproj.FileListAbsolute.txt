@@ -1,0 +1,15 @@
+C:\Users\rafael.ricarto\desktop\stopwatch\bin\Debug\net6.0\stopwatch.exe
+C:\Users\rafael.ricarto\desktop\stopwatch\bin\Debug\net6.0\stopwatch.deps.json
+C:\Users\rafael.ricarto\desktop\stopwatch\bin\Debug\net6.0\stopwatch.runtimeconfig.json
+C:\Users\rafael.ricarto\desktop\stopwatch\bin\Debug\net6.0\stopwatch.dll
+C:\Users\rafael.ricarto\desktop\stopwatch\bin\Debug\net6.0\stopwatch.pdb
+C:\Users\rafael.ricarto\desktop\stopwatch\obj\Debug\net6.0\stopwatch.csproj.AssemblyReference.cache
+C:\Users\rafael.ricarto\desktop\stopwatch\obj\Debug\net6.0\stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.ricarto\desktop\stopwatch\obj\Debug\net6.0\stopwatch.AssemblyInfoInputs.cache
+C:\Users\rafael.ricarto\desktop\stopwatch\obj\Debug\net6.0\stopwatch.AssemblyInfo.cs
+C:\Users\rafael.ricarto\desktop\stopwatch\obj\Debug\net6.0\stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ricarto\desktop\stopwatch\obj\Debug\net6.0\stopwatch.dll
+C:\Users\rafael.ricarto\desktop\stopwatch\obj\Debug\net6.0\refint\stopwatch.dll
+C:\Users\rafael.ricarto\desktop\stopwatch\obj\Debug\net6.0\stopwatch.pdb
+C:\Users\rafael.ricarto\desktop\stopwatch\obj\Debug\net6.0\stopwatch.genruntimeconfig.cache
+C:\Users\rafael.ricarto\desktop\stopwatch\obj\Debug\net6.0\ref\stopwatch.dll
